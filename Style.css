@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+
+}
+*{
+    text-decoration: none;
+}
+
+
+body {
+    color: #003049;
+    font-family: "Source Sans Pro", Tahoma, Geneva, Verdana, sans-serif;
+    padding: 40px;
+    background-color:whitesmoke;
+  }
+  
+  /* Set the font family for any h1, h2, or h3 heading */
+  h1,
+  h2,
+  h3 {
+    font-family: "Playfair Display", Times, serif;
+    text-align: center;
+  }
+  
+  
+  article {
+    padding: 50px 0;
+  }
+  
+  article div {
+    text-align: center;
+    width: 100%;
+  }
+  
+  p {
+    line-height: 1.5;
+    text-align: left;
+  }
+  
+  ul{
+    text-align: left;
+  }
+  
+  div {
+    margin: auto;
+    width: 600px;
+  }
+  
+  
+  
+  img {
+    width: 100%;
+    max-width: 200px;
+    height: auto;
+  }
+  
+  hr {
+    border: 1px solid black;
+  }
+  
+  
+  header{
+    text-align: center;
+  }
+  
+  header > div > nav > a{
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  .image-circle {
+    border-radius: 50%; 
+    border: 2px solid #003049;
+  }
+  
+  footer > p{
+    text-align: center;
+  }
+  
+  a:link    { color: #d62828;  }
+  a:visited    { color: #d62828;  }
+  a:hover   { color: #f77f00; }
+  
